@@ -1,7 +1,7 @@
 <!-- omit in toc -->
 
 # Awesome DICOM [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-🔒 Laatste security check: 2026-11-09 19:42 CET
+🔒 Laatste security check: 2026-11-10 20:28 CET
 
 > A curated list of awesome DICOM resources and libraries.
 
